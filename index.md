@@ -1,6 +1,6 @@
-npm install sbuttons
+`npm install sbuttons
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sbuttons/sbuttons/dist/sbuttons.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sbuttons/sbuttons/dist/sbuttons.css">`
 
 ## Welcome to GitHub Pages
 
