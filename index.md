@@ -1,3 +1,7 @@
+npm install sbuttons
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sbuttons/sbuttons/dist/sbuttons.css">
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Clementdroy/photo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
